@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "user": {
+    "id": 3,
+    "username": "user3",
+    "email": "user3@example.com"
+  },
+  "balances": "Account Three",
+  "createdAt": "2021-07-01T00:00:00",
+  "active": true
+}
